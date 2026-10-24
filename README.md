@@ -1,0 +1,2 @@
+# pairipcore
+bypassing pairipcore
